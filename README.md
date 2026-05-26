@@ -6,7 +6,7 @@ For information about each checkbox, you can hover over each one and an info box
 
 The file name and format of your inputs **must** match the defaults you're trying to replace! For example, to replace the default "action_footsteps_plastic.ogg" sound, the file you put in must have the same name and .ogg type.
 
-WARNING! Use of this application falls into a gray area of what is allowed under Roblox Terms of Service (TOS). No guarantee of safety from punishment actions is given; use at your own risk. 
+**WARNING!** Use of this application falls into a gray area of what is allowed under Roblox Terms of Service (TOS). No guarantee of safety from punishment actions is given; use at your own risk. 
 
 #   Contact   #
 Send a message to "thekilledone1" on Discord for any inquiries, bug reports, or suggestions.
