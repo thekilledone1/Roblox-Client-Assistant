@@ -13,7 +13,5 @@ Send a message to "```thekilledone1```" on Discord for any inquiries, bug report
 
 If you have a bug to report, please send a detailed description of the issue alongside your debug log, which can be found in Tools > View Debug Log.
 
-*Roblox Client Assistant* 
-
 #   Server   #
 www.discord.gg/Jd2bM949rz
