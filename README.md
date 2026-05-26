@@ -9,7 +9,7 @@ The file name and format of your inputs **must** match the defaults you're tryin
 **WARNING!** Use of this application falls into a gray area of what is allowed under Roblox Terms of Service (TOS). No guarantee of safety from punishment actions is given; use at your own risk. 
 
 #   Contact   #
-Send a message to "thekilledone1" on Discord for any inquiries, bug reports, or suggestions.
+Send a message to "```thekilledone1```" on Discord for any inquiries, bug reports, or suggestions.
 
 If you have a bug to report, please send a detailed description of the issue alongside your debug log, which can be found in Tools > View Debug Log.
 
